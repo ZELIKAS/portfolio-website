@@ -93,11 +93,8 @@ button:focus,
     margin-auto: auto;
     list-style-type: none;
 }
-.contact-info {
-    text-align: center;
-}
 .contact {
-    text-align: center;
+    text-align: left;
 }
 .profile__portrait {
     float: left;
