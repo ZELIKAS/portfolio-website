@@ -88,6 +88,7 @@ button:focus,
 }
 .about {
     text-align: center;
+    margin-bottom: 5%;
 }
 .about-list {
     margin: 2%;
