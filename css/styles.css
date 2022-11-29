@@ -90,7 +90,7 @@ button:focus,
     text-align: center;
 }
 .about-list {
-    margin: auto;
+    margin: 2%;
     list-style-type: none;
 }
 .contact {
