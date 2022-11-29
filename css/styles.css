@@ -94,8 +94,10 @@ button:focus,
     list-style-type: none;
 }
 .contact {
-    text-align: left;
+    margin: 2%;
+    margin-bottom: 10%;
 } 
+
 .profile__portrait {
     float: left;
     width: 200px;
